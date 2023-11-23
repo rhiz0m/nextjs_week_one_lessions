@@ -1,0 +1,75 @@
+// Vad är ett ‘Request’
+// Vad är ett ‘Response’
+// Vad är ett ‘Handshake’ och hur
+relaterar detta till till både
+‘Request & Response’?
+// TCP & UDP, tillför båda protokoll
+‘handshakes’?
+
+// Med följande Status Koder:
++ 2xx
++ 3xx
++ 4xx
++ 5xx
+// Vad har varje ‘hundratal’ gemensamt?
+// När använder man exempelvist:
+200, 300, 400, och 500?
+
+/ –Uppgift #1– //
+/* INSTRUCTIONS
+Skapa ett nytt projekt!
+Döp projektet till: Lektion_2_uppgifter
+*/
+// HINT & Examples
+hint(” npx create-next-app ”)
+
+/ –Uppgift #2– //
+/* INSTRUCTIONS
+Skapa en ‘const’ variabel för
+respektive datatyper:
++ string
++ number
++ boolean
++ En array med nummer
+*/
+// HINT & Examples
+hint(”
+För att begränsa datatyper inom en array skriver
+en enbart med datatypen till vänster om []
+ ”)
+
+ / –Uppgift #3– //
+/* INSTRUCTIONS
+Skapa ett nytt interface som heter ‘book’
+Ge detta interface följande attribut med
+logiska datatyper:
++ name
++ author
++ amountOfPages
++ isPublished
+*/
+// HINT & Examples
+hint(” Förberedelse för nästkommande uppgift…”)
+
+/ –Uppgift #4– //
+/* INSTRUCTIONS
+Skapa nu ett interface som heter ‘student’
+Student ska ha följande attribut:
++ name
++ age
++ Array av böcker
+*/
+hint(” Märk av återanvändningen! ”)
+
+/ –Uppgift #5– //
+Tough Nut
+/* INSTRUCTIONS
+Skapa ett interface som heter ‘Animal’
+Ge den 2 attribut:
++ species
++ canFly
+Skapa nu två variabler som är djur från
+detta interface. Tilldela gärna värden!
+Skapa sedan en till variabel av typen array
+av animals och döp den till ‘zoo’
+*/

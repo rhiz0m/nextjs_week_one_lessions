@@ -1,0 +1,45 @@
+/ –Uppgift #1– //
+/* INSTRUCTIONS
+Skapa ett nytt projekt!
+Döp projektet till: Lektion_1_Uppgifter
+Försök nu att skriva ut: “Hello World”
+Försök också att skriva inom JSX 2+2
+*/
+// HINT & Examples
+hint(” JSX är {} inom html! ”)
+
+/ –Uppgift #2– //
+/* INSTRUCTIONS
+Navigera in till app / page.tsx
+Tillför TSX operator för följande:
++ 2 < 4 ? “True” : “False”
++ 2 < 4 ? <p></p> : <h1> </h1>
++ 2 + 2 == 99 || 2+2 == 4 ? “TRUE” : “FALSE”
++ 2 + 2 == 4 && 2+4 == 6 ? “TRUE” : “FALSE”
+*/
+// HINT & Examples
+hint(” Gå till Slide #56 för exempel! ”)
+hint(”
+Det som står till höger om ? är ‘truthy’
+Det som står till höger om : är ‘false’
+ ”)
+
+ / –Uppgift #3– //
+/* INSTRUCTIONS
+Skapa en mapp inom app med namnet: api
+Inom ‘api’, skapa en fil ‘route.ts’
+
+Copy / Paste:a följande kod:
+export async function GET(request: Request) {
+try {
+ return NextResponse.json(
+ { message: "OK", myMessage: "Hello world!" },
+ { status: 200 }
+ );
+ } catch (error) {
+ return NextResponse.json({ message: "Error", error }, { status: 500 });
+ }
+}
+Försök skriva ut “Hejsan svejsan”
+*/
+
