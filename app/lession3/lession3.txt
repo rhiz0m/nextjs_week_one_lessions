@@ -1,0 +1,95 @@
+* INSTRUCTIONS
+Skapa ett nytt projekt!
+Döp projektet till: Lektion_3_uppgifter
+*/
+
+/ –Uppgift #2– //
+/* INSTRUCTIONS
+Skapa en useState för följande data:
++ number
++ string
++ Interface Student
+Visa sedan upp resultatet inom en paragraf!
+*/
+// HINT & Examples
+hint(” Visa upp resultatet inom tsx → {} ”)
+
+/ –Uppgift #3– //
+/* INSTRUCTIONS
+Skapa en async funktion med en fetch som
+inväntar ett svar med ‘await’.
+*/
+// HINT & Examples
+hint(” glöm inte tilldela ‘const’ variabler! ”)
+
+/ –Uppgift #4– //
+Design
+/* INSTRUCTIONS
+Efterlikna bilden på höger!
+*/
+// HINT & Examples
+hint(”
+px & py = padding X / padding Y
+mb & mt = margin top / margin bottom
+rounded = Avrunda
+bg = Bakgrund
+text-sm = text storlek (i detta fall small)
+max-w-sm = maximal bredd (small)
+border = kanter
+border-sky = färg på kant
+ ”)
+
+ / –Uppgift #5– //
+Design
+/* INSTRUCTIONS
+Efterlikna bilden på höger!
+Notera centrering!
+*/
+// HINT & Examples
+hint(”
+px & py = padding X / padding Y
+mb & mt = margin top / margin bottom
+rounded = Avrunda
+bg = Bakgrund
+text-sm = text storlek (i detta fall small)
+max-w-sm = maximal bredd (small)
+border = kanter
+border-sky = färg på kant
+ ”)
+
+ / –Uppgift #6– //
+Design
+/* INSTRUCTIONS
+Efterlikna bilden på höger!
+Notera Rundade hörn, skuggor!
+*/
+// HINT & Examples
+hint(”
+px & py = padding X / padding Y
+mb & mt = margin top / margin bottom
+rounded = Avrunda
+bg = Bakgrund
+text-sm = text storlek (i detta fall small)
+max-w-sm = maximal bredd (small)
+border = kanter
+border-sky = färg på kant
+ ”)
+
+ // –Uppgift #7– //
+ TOUGH NUT
+Design
+/* INSTRUCTIONS
+Efterlikna bilden på höger!
+Notera Rundade hörn, skuggor!
+*/
+// HINT & Examples
+hint(”
+px & py = padding X / padding Y
+mb & mt = margin top / margin bottom
+rounded = Avrunda
+bg = Bakgrund
+text-sm = text storlek (i detta fall small)
+max-w-sm = maximal bredd (small)
+border = kanter
+border-sky = färg på kant
+ ”)
