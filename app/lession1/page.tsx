@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function lektion1() {
+export default function Lession1() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>

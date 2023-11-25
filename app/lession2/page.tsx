@@ -48,7 +48,7 @@ enum dayOfTheWeek {
 
 let pickAday: dayOfTheWeek = dayOfTheWeek.monday;
 
-export default function lektion2() {
+export default function Lession2() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
